@@ -1,0 +1,27 @@
+package br.com.atlasjr.enums;
+
+/**
+ * @author Cazuza
+ * @version 1.0
+ * @since 2021-02-22
+ */
+public enum Status {
+    OPEN(13, "Aberto"),
+    CLOSE(02, "Fechado");
+
+    private int cod;
+    private String texto;
+
+    Status(final int cod, final String texto) {
+        this.cod = cod;
+        this.texto = texto;
+    }
+
+    public int getCod() {
+        return cod;
+    }
+
+    public String getTexto() {
+        return texto;
+    }
+}

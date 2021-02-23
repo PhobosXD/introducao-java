@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.40">
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/Programa.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/carro/Carro.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/carro/Programa.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/classes/Programa.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/classes/tipos/primitivos/Primitivos.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/classes/tipos/wrappers/Wrappers.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/classes/usuario/ProgramaDoSuperUsuario.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/classes/usuario/SuperUsuario.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/construtores/carro/Carro.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/enums/Programa.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/enums/Status.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/enums/TipoVeiculo.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/imc/Imc.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/interfaces/Carro.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/interfaces/Gol.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/interfaces/Programa.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/lacos/For.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/lacos/Outros.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/lacos/While.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/operadores/If.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/operadores/Igualdade.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/operadores/Logicos.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/operadores/Relacional.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/pessoa/Pessoa.java">
+</file>
+<file name="/home/cazuza/workspace/java/introducao-java/src/main/java/br/com/atlasjr/strings/Strings.java">
+</file>
+</checkstyle>
