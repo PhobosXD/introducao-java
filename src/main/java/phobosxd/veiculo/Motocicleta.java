@@ -1,6 +1,11 @@
 package phobosxd.veiculo;
 
-public class Motocicleta extends Veiculo{
+/**
+ * @author PhobosXD
+ * @since 2021-02-24
+ * @version 1.0
+ */
+public class Motocicleta extends Veiculo {
     private Integer cilindradas;
 
     public void setCilindradas(final Integer cilindradas) {

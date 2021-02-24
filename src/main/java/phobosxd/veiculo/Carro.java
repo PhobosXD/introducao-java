@@ -1,6 +1,11 @@
 package phobosxd.veiculo;
 
-public class Carro extends Veiculo{
+/**
+ * @author PhobosXD
+ * @since 2021-02-24
+ * @version 1.0
+ */
+public class Carro extends Veiculo {
     private Integer quantidadePortas;
 
     public void setQuantidadePortas(final Integer quantidadePortas) {

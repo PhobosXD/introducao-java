@@ -1,5 +1,10 @@
 package phobosxd.veiculo;
 
+/**
+ * @author PhobosXD
+ * @since 2021-02-24
+ * @version 1.0
+ */
 public class Veiculo {
     private String marca;
     private String modelo;

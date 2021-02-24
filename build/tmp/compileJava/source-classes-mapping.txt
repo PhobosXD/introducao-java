@@ -48,7 +48,13 @@ br/com/atlasjr/construtores/carro/Carro.java
  br.com.atlasjr.construtores.carro.Carro
 br/com/atlasjr/classes/Programa.java
  br.com.atlasjr.classes.Programa
-phobosxd/Main.java
- phobosxd.Main
 phobosxd/pessoa/Pessoa.java
  phobosxd.pessoa.Pessoa
+phobosxd/Main.java
+ phobosxd.Main
+phobosxd/veiculo/Veiculo.java
+ phobosxd.veiculo.Veiculo
+phobosxd/veiculo/Carro.java
+ phobosxd.veiculo.Carro
+phobosxd/veiculo/Motocicleta.java
+ phobosxd.veiculo.Motocicleta
