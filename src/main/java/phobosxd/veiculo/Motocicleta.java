@@ -10,4 +10,8 @@ public class Motocicleta extends Veiculo{
     public Integer getCilindradas() {
         return cilindradas;
     }
+
+    public Double getInposto() {
+        return getValorVenal() * 0.03;
+    }
 }

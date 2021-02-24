@@ -10,4 +10,8 @@ public class Carro extends Veiculo{
     public Integer getQuantidadePortas() {
         return quantidadePortas;
     }
+
+    public Double getImposto() {
+        return getValorVenal() * 0.07;
+    }
 }
