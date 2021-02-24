@@ -1,6 +1,8 @@
 package phobosxd;
 
 import phobosxd.pessoa.Pessoa;
+import phobosxd.veiculo.Carro;
+import phobosxd.veiculo.Motocicleta;
 
 /**
  * @author PhobosXD
