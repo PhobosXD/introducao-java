@@ -1,8 +1,18 @@
-package phobosxd.javaDate;
+package phobosxd.javadate;
 
 import java.util.Calendar;
 
+/**
+ * @author PhobosXD
+ * @since 2021-02-25
+ * @version 1.0
+ */
 public class Calendario {
+    /**
+     * @author PhobosXD
+     * @since 2021-02-25
+     * @param args Argumentos da main.
+     */
     public static void main(String[] args) {
         Calendar agora = Calendar.getInstance();
         //System.out.println(agora.getTime());

@@ -14,7 +14,10 @@ Podemos encontrar exemplos de polimorfismo no package phobosxd.veiculo. Aqui a f
 
 ## Trabalhando com datas
 
- - Date: phobosxd.javaDate.Data
- - Calendar: phobosxd.javaDate.Calendario
- - DateFormat: phobosxd.javaDate.Format
- - SimpleDateFormar: phobosxd.javaDate.Format
+ - Date: phobosxd.javadate.Data
+ - Calendar: phobosxd.javadate.Calendario
+ - DateFormat: phobosxd.javadate.Format
+ - SimpleDateFormar: phobosxd.javadate.Format
+ - LocalDate: phobosxd.javadate.Local
+ - LocalTime: phobosxd.javadate.Local
+ - LocalDateTime: phobosxd.javadate.Local

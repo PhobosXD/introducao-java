@@ -62,13 +62,15 @@ phobosxd/funcionario/Surpevisor.java
  phobosxd.funcionario.Surpevisor
 phobosxd/veiculo/Veiculo.java
  phobosxd.veiculo.Veiculo
+phobosxd/javadate/Local.java
+ phobosxd.javadate.Local
 phobosxd/veiculo/Carro.java
  phobosxd.veiculo.Carro
+phobosxd/javadate/Calendario.java
+ phobosxd.javadate.Calendario
+phobosxd/javadate/Data.java
+ phobosxd.javadate.Data
 phobosxd/veiculo/Motocicleta.java
  phobosxd.veiculo.Motocicleta
-phobosxd/javaDate/Data.java
- phobosxd.javaDate.Data
-phobosxd/javaDate/Calendario.java
- phobosxd.javaDate.Calendario
-phobosxd/javaDate/Format.java
- phobosxd.javaDate.Format
+phobosxd/javadate/Format.java
+ phobosxd.javadate.Format
