@@ -52,17 +52,23 @@ phobosxd/pessoa/Pessoa.java
  phobosxd.pessoa.Pessoa
 phobosxd/Main.java
  phobosxd.Main
+phobosxd/funcionario/Atendente.java
+ phobosxd.funcionario.Atendente
+phobosxd/funcionario/Gerente.java
+ phobosxd.funcionario.Gerente
+phobosxd/funcionario/Funcionario.java
+ phobosxd.funcionario.Funcionario
+phobosxd/funcionario/Surpevisor.java
+ phobosxd.funcionario.Surpevisor
 phobosxd/veiculo/Veiculo.java
  phobosxd.veiculo.Veiculo
 phobosxd/veiculo/Carro.java
  phobosxd.veiculo.Carro
 phobosxd/veiculo/Motocicleta.java
  phobosxd.veiculo.Motocicleta
-phobosxd/funcionario/Surpevisor.java
- phobosxd.funcionario.Surpevisor
-phobosxd/funcionario/Funcionario.java
- phobosxd.funcionario.Funcionario
-phobosxd/funcionario/Gerente.java
- phobosxd.funcionario.Gerente
-phobosxd/funcionario/Atendente.java
- phobosxd.funcionario.Atendente
+phobosxd/javaDate/Data.java
+ phobosxd.javaDate.Data
+phobosxd/javaDate/Calendario.java
+ phobosxd.javaDate.Calendario
+phobosxd/javaDate/Format.java
+ phobosxd.javaDate.Format
