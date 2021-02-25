@@ -11,3 +11,13 @@ Podemos encontrar exemplos de herança no package phobosxd.veiculo. Aqui as clas
 ## Polimorfismo
 
 Podemos encontrar exemplos de polimorfismo no package phobosxd.veiculo. Aqui a função getImposto() possi diferentes implementções na classe geral e nas classes que herdam esse método.
+
+## Trabalhando com datas
+
+ - Date: phobosxd.javadate.Data
+ - Calendar: phobosxd.javadate.Calendario
+ - DateFormat: phobosxd.javadate.Format
+ - SimpleDateFormar: phobosxd.javadate.Format
+ - LocalDate: phobosxd.javadate.Local
+ - LocalTime: phobosxd.javadate.Local
+ - LocalDateTime: phobosxd.javadate.Local

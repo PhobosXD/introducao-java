@@ -12,7 +12,21 @@ public class Motocicleta extends Veiculo {
         super(marca, modelo, valorVenal);
     }
 
-    public Motocicleta(final String marca, final String modelo, final Double valorVenal, final Integer cilindradas) {
+    /**
+     * @author PhobosXD
+     * @since 2021-02-24
+     * @param marca String: Atributo marca da classe.
+     * @param modelo String: Atributo modelo da classe.
+     * @param valorVenal Double: Atributo valorVenal da classe.
+     * @param cilindradas Integer: Atributo cilindradas da
+     *                    classe.
+     */
+    public Motocicleta(
+            final String marca,
+            final String modelo,
+            final Double valorVenal,
+            final Integer cilindradas) {
+
         super(marca, modelo, valorVenal);
         this.cilindradas = cilindradas;
     }

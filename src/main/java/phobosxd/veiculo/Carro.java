@@ -12,7 +12,21 @@ public class Carro extends Veiculo {
         super(marca, modelo, valorVenal);
     }
 
-    public Carro(final String marca, final String modelo, final Double valorVenal, final Integer quantidadePortas) {
+    /**
+     * @author PhobosXD
+     * @since 2021-02-24
+     * @param marca String: Atributo marca da classe.
+     * @param modelo String: Atributo marca da classe.
+     * @param valorVenal Double: Atributo valorVenal da classe.
+     * @param quantidadePortas Integer: Atributo quantidade de
+     *                        portas da classe.
+     */
+    public Carro(
+            final String marca,
+            final String modelo,
+            final Double valorVenal,
+            final Integer quantidadePortas) {
+
         super(marca, modelo, valorVenal);
         this.quantidadePortas = quantidadePortas;
     }
